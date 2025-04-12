@@ -1,2 +1,5 @@
-# COMP-4320
-### All of the assignments from COMP4320 at Auburn in Spring 2025.
+# COMP 4320 - Introduction of Computer Networks
+## University
+Auburn University
+## Professor
+Farah Kandah
